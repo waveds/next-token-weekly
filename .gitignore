@@ -1,0 +1,17 @@
+# API keys: never commit
+.env
+.env.*
+!.env.example
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,121 @@
+review_id,date,review,gold_sentiment,gold_theme,gold_urgency
+1,2026-09-21,Phone gets hot and the battery dies quickly.,negative,battery,3
+2,2026-11-06,"Support replaced my unit within 5 days, very helpful team.",positive,support,1
+3,2026-11-20,Great value for money at this price.,positive,price,1
+4,2026-09-30,Way too expensive for what you get.,negative,price,3
+5,2026-10-29,Customer care kept me on hold for 3 minutes and then hung up.,negative,support,4
+6,2026-10-06,Average product for an average price.,neutral,price,2
+7,2026-11-09,Screen cracked after 8 weeks of normal use.,negative,quality,3
+8,2026-10-09,Average product for an average price.,neutral,price,2
+9,2026-09-28,"Build quality is excellent, feels premium.",positive,quality,1
+10,2026-10-25,Package never arrived and tracking stopped updating.,negative,delivery,4
+11,2026-10-18,Price dropped by 300 rupees a week after I bought it. Feel cheated.,negative,price,3
+12,2026-11-05,"Courier left it at the wrong address, took ages to sort out.",negative,delivery,4
+13,2026-11-07,"Battery life is terrible, I charge it twice a day.",negative,battery,3
+14,2026-11-07,"Courier left it at the wrong address, took ages to sort out.",negative,delivery,4
+15,2026-10-31,Screen cracked after 6 weeks of normal use.,negative,quality,5
+16,2026-09-09,Average product for an average price.,neutral,price,2
+17,2026-09-13,The app is confusing and setup took forever.,negative,usability,5
+18,2026-10-15,Screen cracked after 6 weeks of normal use.,negative,quality,3
+19,2026-11-05,"Delivery was promised for Monday, it came the next week. Very disappointed.",negative,delivery,4
+20,2026-09-15,Price dropped by 900 rupees a week after I bought it. Feel cheated.,negative,price,5
+21,2026-09-08,Package never arrived and tracking stopped updating.,negative,delivery,4
+22,2026-11-05,"Raised a warranty claim, no response for 5 days.",negative,support,5
+23,2026-09-14,"Super fast shipping, got it within 3 days.",positive,delivery,1
+24,2026-10-12,"Delivery was promised for Monday, it came the next week. Very disappointed.",negative,delivery,4
+25,2026-09-10,"Cheap plastic, the hinge broke in a month.",negative,quality,4
+26,2026-09-12,Phone gets hot and the battery dies quickly.,negative,battery,5
+27,2026-09-10,"Cheap plastic, the hinge broke in a month.",negative,quality,3
+28,2026-11-08,Screen cracked after 7 weeks of normal use.,negative,quality,4
+29,2026-10-20,"Too many settings, very hard to use for my parents.",negative,usability,3
+30,2026-11-07,"It is okay. Does the job, nothing special.",neutral,quality,2
+31,2026-10-24,"It is okay. Does the job, nothing special.",neutral,quality,2
+32,2026-11-07,"Battery life is terrible, I charge it twice a day.",negative,battery,4
+33,2026-10-29,Battery drains from 100 to 20 percent in 5 hours.,negative,battery,5
+34,2026-11-05,"Best budget option, worth every rupee.",positive,price,1
+35,2026-10-17,Price dropped by 700 rupees a week after I bought it. Feel cheated.,negative,price,3
+36,2026-10-21,"Build quality is excellent, feels premium.",positive,quality,1
+37,2026-11-16,My order arrived 3 days late and the box was crushed.,negative,delivery,4
+38,2026-09-07,"Battery easily lasts two full days, impressive.",positive,battery,1
+39,2026-11-08,Screen cracked after 8 weeks of normal use.,negative,quality,4
+40,2026-09-14,"Too many settings, very hard to use for my parents.",negative,usability,5
+41,2026-10-09,"Support replaced my unit within 3 days, very helpful team.",positive,support,1
+42,2026-10-17,"Best budget option, worth every rupee.",positive,price,1
+43,2026-11-18,"It is okay. Does the job, nothing special.",neutral,quality,2
+44,2026-10-10,"Raised a warranty claim, no response for 2 days.",negative,support,5
+45,2026-09-29,Package never arrived and tracking stopped updating.,negative,delivery,5
+46,2026-10-13,Customer care kept me on hold for 6 minutes and then hung up.,negative,support,5
+47,2026-10-11,"Support replaced my unit within 4 days, very helpful team.",positive,support,1
+48,2026-10-23,Way too expensive for what you get.,negative,price,5
+49,2026-09-07,"Raised a warranty claim, no response for 9 days.",negative,support,4
+50,2026-09-20,"Support replaced my unit within 7 days, very helpful team.",positive,support,1
+51,2026-09-15,Way too expensive for what you get.,negative,price,3
+52,2026-10-18,Support agent was rude and did not solve my issue.,negative,support,4
+53,2026-10-27,"Battery easily lasts two full days, impressive.",positive,battery,1
+54,2026-10-28,"Delivery was promised for Monday, it came the next week. Very disappointed.",negative,delivery,5
+55,2026-09-10,Price dropped by 400 rupees a week after I bought it. Feel cheated.,negative,price,4
+56,2026-09-29,"Simple and intuitive, my kids figured it out in minutes.",positive,usability,1
+57,2026-09-21,Great value for money at this price.,positive,price,1
+58,2026-10-12,"Support replaced my unit within 9 days, very helpful team.",positive,support,1
+59,2026-11-16,"It is okay. Does the job, nothing special.",neutral,quality,2
+60,2026-10-04,"Build quality is excellent, feels premium.",positive,quality,1
+61,2026-10-21,"It is okay. Does the job, nothing special.",neutral,quality,2
+62,2026-09-12,"Build quality is excellent, feels premium.",positive,quality,1
+63,2026-10-20,Way too expensive for what you get.,negative,price,3
+64,2026-11-07,"Battery easily lasts two full days, impressive.",positive,battery,1
+65,2026-11-07,Way too expensive for what you get.,negative,price,5
+66,2026-10-03,"Super fast shipping, got it within 5 days.",positive,delivery,1
+67,2026-11-22,"Battery easily lasts two full days, impressive.",positive,battery,1
+68,2026-11-15,"Too many settings, very hard to use for my parents.",negative,usability,3
+69,2026-09-15,Way too expensive for what you get.,negative,price,5
+70,2026-10-27,Price dropped by 700 rupees a week after I bought it. Feel cheated.,negative,price,4
+71,2026-09-30,"Solid product, still working perfectly after 9 months.",positive,quality,1
+72,2026-10-08,"It is okay. Does the job, nothing special.",neutral,quality,2
+73,2026-10-28,Price dropped by 700 rupees a week after I bought it. Feel cheated.,negative,price,3
+74,2026-11-03,Battery drains from 100 to 20 percent in 5 hours.,negative,battery,3
+75,2026-10-15,Average product for an average price.,neutral,price,2
+76,2026-11-01,Way too expensive for what you get.,negative,price,4
+77,2026-09-08,"Delivery was promised for Monday, it came the next week. Very disappointed.",negative,delivery,4
+78,2026-10-30,Way too expensive for what you get.,negative,price,5
+79,2026-09-07,My order arrived 3 days late and the box was crushed.,negative,delivery,4
+80,2026-09-08,Screen cracked after 8 weeks of normal use.,negative,quality,4
+81,2026-10-08,Price dropped by 500 rupees a week after I bought it. Feel cheated.,negative,price,4
+82,2026-11-13,Way too expensive for what you get.,negative,price,4
+83,2026-11-01,My order arrived 8 days late and the box was crushed.,negative,delivery,4
+84,2026-10-14,"Cheap plastic, the hinge broke in a month.",negative,quality,4
+85,2026-11-15,Phone gets hot and the battery dies quickly.,negative,battery,3
+86,2026-09-22,Battery drains from 100 to 20 percent in 6 hours.,negative,battery,3
+87,2026-11-04,The app is confusing and setup took forever.,negative,usability,5
+88,2026-09-09,"Cheap plastic, the hinge broke in a month.",negative,quality,3
+89,2026-11-04,"Best budget option, worth every rupee.",positive,price,1
+90,2026-11-12,"Stopped working after 3 days, feels poorly made.",negative,quality,3
+91,2026-09-26,The app is confusing and setup took forever.,negative,usability,5
+92,2026-10-28,Customer care kept me on hold for 8 minutes and then hung up.,negative,support,4
+93,2026-10-16,"It is okay. Does the job, nothing special.",neutral,quality,2
+94,2026-09-07,Battery drains from 100 to 20 percent in 8 hours.,negative,battery,5
+95,2026-11-02,Support agent was rude and did not solve my issue.,negative,support,4
+96,2026-09-29,"Arrived a day early, well packed. Great delivery!",positive,delivery,1
+97,2026-10-18,Price dropped by 800 rupees a week after I bought it. Feel cheated.,negative,price,3
+98,2026-09-22,"Stopped working after 6 days, feels poorly made.",negative,quality,4
+99,2026-11-05,"Too many settings, very hard to use for my parents.",negative,usability,3
+100,2026-09-07,"Cheap plastic, the hinge broke in a month.",negative,quality,3
+101,2026-09-18,"Delivery was promised for Monday, it came the next week. Very disappointed.",negative,delivery,4
+102,2026-10-08,Price dropped by 300 rupees a week after I bought it. Feel cheated.,negative,price,3
+103,2026-09-15,"Raised a warranty claim, no response for 6 days.",negative,support,4
+104,2026-09-25,"Solid product, still working perfectly after 6 months.",positive,quality,1
+105,2026-09-09,"Support replaced my unit within 6 days, very helpful team.",positive,support,1
+106,2026-10-30,The app is confusing and setup took forever.,negative,usability,4
+107,2026-09-30,The app is confusing and setup took forever.,negative,usability,5
+108,2026-11-17,The app is confusing and setup took forever.,negative,usability,4
+109,2026-10-01,The app is confusing and setup took forever.,negative,usability,3
+110,2026-11-11,Package never arrived and tracking stopped updating.,negative,delivery,4
+111,2026-11-06,Customer care kept me on hold for 3 minutes and then hung up.,negative,support,5
+112,2026-10-09,"Cheap plastic, the hinge broke in a month.",negative,quality,3
+113,2026-09-20,My order arrived 7 days late and the box was crushed.,negative,delivery,4
+114,2026-09-26,Phone gets hot and the battery dies quickly.,negative,battery,3
+115,2026-09-14,Phone gets hot and the battery dies quickly.,negative,battery,5
+116,2026-09-23,"Too many settings, very hard to use for my parents.",negative,usability,3
+117,2026-10-24,Battery drains from 100 to 20 percent in 4 hours.,negative,battery,5
+118,2026-09-28,My order arrived 7 days late and the box was crushed.,negative,delivery,5
+119,2026-10-14,"Stopped working after 4 days, feels poorly made.",negative,quality,4
+120,2026-10-27,Average product for an average price.,neutral,price,2
