@@ -7,13 +7,13 @@ An 8-week newsletter on **Generative AI and Agentic AI** for data analytics lear
 Each issue is a single HTML file. Open it in any browser.
 
 - **On your computer:** download the repo (green **Code** button → **Download ZIP**), unzip it, and double-click `week-XX-.../NextToken_WeekXX.html`.
-- **Online:** open the GitHub Pages link shared by your instructor.
+- **Online:** [Week 01 · How machines learned to write](https://waveds.github.io/next-token-weekly/week-01-foundations/NextToken_Week01.html)
 
 ## Issues
 
 | Week | Date | Issue | Project |
 |---|---|---|---|
-| [01](week-01-foundations/) | 30 Nov 2026 | How machines learned to write | ReviewLens: GenAI feedback analyser |
+| [01](week-01-foundations/) | 30 Nov 2026 | [How machines learned to write](https://waveds.github.io/next-token-weekly/week-01-foundations/NextToken_Week01.html) | ReviewLens: GenAI feedback analyser |
 
 New issues are added here each week. The full 8-week schedule is in [PROGRAM_PLAN.md](PROGRAM_PLAN.md).
 

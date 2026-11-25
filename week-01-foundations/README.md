@@ -4,7 +4,9 @@
 
 ## 1. Read the issue
 
-Open [`NextToken_Week01.html`](NextToken_Week01.html) in a browser (download the repo first, because GitHub shows HTML files as code). It has 16 chapters:
+**Read online:** https://waveds.github.io/next-token-weekly/week-01-foundations/NextToken_Week01.html
+
+Or open [`NextToken_Week01.html`](NextToken_Week01.html) from a downloaded copy of the repo. It has 16 chapters:
 
 AI family tree · Timeline 1950 to now · What an LLM is · Tokens · Embeddings · Attention and the Transformer · How models are trained (RLHF) · Temperature · Hallucination · The model landscape · From chatbot to agent · Six real-world case studies · 20 interview questions · 10-question quiz · The project · Glossary and cheat sheet
 
